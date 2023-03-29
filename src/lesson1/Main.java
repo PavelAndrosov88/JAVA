@@ -11,5 +11,6 @@ public class Main {
         System.out.println(Task2.sum(5));
         Task3.numbers();
         Task4.calc();
+
     }
 }
